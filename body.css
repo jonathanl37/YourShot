@@ -1,0 +1,210 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    color: white;
+    background-color: black;
+  }
+  
+  header {
+    background: linear-gradient(
+    #104CA6,
+    #A63CAF);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+  }
+  
+  header  h1 {
+    padding-top: .5rem;
+    font-weight: bold;
+    font-size: 3rem;
+    padding-left: 5.5rem;
+  }
+
+.download h1 {
+  font-size: 3rem;
+
+}
+.about-us h1 {
+  font-size: 3rem;
+}
+.features h1 {
+  font-size: 3rem;
+}
+  
+.logotext{
+  display: flex;
+  justify-content: center;
+padding-bottom: 0rem;
+}
+.logo{
+    width: 4rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+  }
+  .download-quote{
+    display: flex;
+  justify-content: center;
+  padding-bottom: 3rem;
+    
+  }
+.abouttext{
+  display: flex;
+  justify-content: center;
+padding-bottom: 0rem;
+}
+  .logo2 {
+    width: 4rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+  }
+  
+  .featurestext{
+    display: flex;
+    justify-content: center;
+  padding-bottom: 0rem;
+  }
+  .logo3 {
+    width: 4rem;
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: nowrap;
+  }
+  
+  .download img {
+    margin-bottom: 1.5rem;
+  }
+  
+  .download h3 {
+    margin-top: 3rem;
+  }
+  
+  nav > ul {
+    list-style-type: none;
+    width: 35vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 1.87rem;
+    padding-bottom: 1.2rem;
+  }
+  
+  header a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  header a:hover {
+    color: black;
+  }
+  
+  .download {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    text-align: center
+  }
+  
+  .download-item .download-quote {
+    font-size: 18px;
+  }
+  
+  .download .app-img {
+    width: 40%;
+  }
+  
+  .app-store {
+    width: 150px;
+    height: 50px;
+  }
+  
+  .play-store {
+     width: 150px;
+    height: 50px;
+  }
+  
+  .download-item h3 {
+    padding-bottom: .75rem;
+  }
+  
+  .about-us h1 {
+    text-align: center;
+    margin-bottom: 1rem;
+  }
+  
+  .hero {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    padding-bottom: 50px;
+  }
+  
+  .about-us-text {
+    display: flex;
+  }
+  
+  .about-us-item {
+    text-align: center;
+    padding: 20px 100px 20px 100px;
+    
+  }
+  
+  .features h1 {
+    text-align: center;
+  }
+  
+  .features-content {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .features-item {
+    flex-basis: 33%;
+    text-align: center;
+  }
+  
+  .features-item h2 {
+    font-size: 25px;
+  }
+  
+  section {
+    padding: 50px;
+  }
+  
+  .divider {
+    border: 1px solid white;
+    width: 75%;
+    margin: 0 auto;
+  }
+  
+  footer {
+    text-align: center;
+  }
+  
+  footer ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+  }
+  
+  footer li {
+    padding: 1rem;
+  }
+  
+  footer a {
+    text-decoration: none;
+    color: #104CA6;
+  }
+  
+  footer a:hover {
+    color: #A63CAF;
+  }
+  
+  footer p {
+    font-size: 13px;
+  }
